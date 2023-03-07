@@ -4,4 +4,4 @@ Olá! Eu sou o Eduardo Nitz
 📒Esutando Javascript e Abap
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitzshow_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitzs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
