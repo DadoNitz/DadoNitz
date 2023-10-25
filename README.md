@@ -1,7 +1,6 @@
 Olá! Eu sou o Eduardo Nitz
 
-💻Cursando Análise e desenvolvimento de sistemas
-📒Esutando Javascript e Abap
+💻Cursando Análise e desenvolvimento de sistemas, segundo semestre.
 
 ##
 
