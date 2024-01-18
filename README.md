@@ -1,6 +1,6 @@
 ##Olá! Eu sou o Eduardo Nitz
 
-💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre. Atualmente desenvolvedor Full-Stack na  <img align="center" alt="Dado-iData" height="30" width="40" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" />
+💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre. Atualmente desenvolvedor Full-Stack na  <img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" />
 ## 
 
 ## Tecnologias e Conhecimentos
