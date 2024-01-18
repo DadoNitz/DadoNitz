@@ -7,7 +7,7 @@ Tecnologias e Conhecimentos
 
 | HTML | CSS | JS | C | C# | .NET | MYSQL | ABAP | REDES | PYTHON | REACT | NODE.JS | BOOTSTRAP |
 
-| METODOLOGIAS AGEIS | INGLES AVANÇADO | ESPANHOL BASICO
+| METODOLOGIAS AGEIS | INGLES AVANÇADO | ESPANHOL BASICO |
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
