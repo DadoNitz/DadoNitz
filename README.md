@@ -2,11 +2,11 @@
 
 💻Currently studying Systems Analysis and Development, third semester.
 
-Atualmente desenvolvedor Full-Stack na <a href="https://idata.com.br" target="_blank"><img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> </a>
+Currently a Full-Stack developer at <a href="https://idata.com.br" target="_blank"><img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> </a>
 
-Sempre aberto a aprender novas tecnologias e adiquirir conhecimento!
+Always open to learning new technologies and acquiring knowledge!
 
-## Always open to learning new technologies and acquiring knowledge!🧠
+##
 
 ### Front-end
 
@@ -20,21 +20,22 @@ Sempre aberto a aprender novas tecnologias e adiquirir conhecimento!
 
   <img align="center" alt="Dado-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img align="center" alt="Dado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> | <img align="center" alt="Dado-DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />  
 
+  ##
+
 ### General Knowledge
 
 AGILE METHODOLOGIES | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
 
 
-
 ### Languages
 
 NATIVE PORTUGUESE | ADVANCED ENGLISH | BASIC SPANISH
+
 ##
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
   
-##
 
 <div> 
 <a href="https://instagram.com/dado_nitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
