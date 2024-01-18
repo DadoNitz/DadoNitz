@@ -1,13 +1,12 @@
-## Olá!, me chamo Eduardo Nitz!
+## Hello! My name is Eduardo Nitz!
 
-💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre. 
+💻Currently studying Systems Analysis and Development, third semester.
 
 Atualmente desenvolvedor Full-Stack na <a href="https://idata.com.br" target="_blank"><img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> </a>
 
 Sempre aberto a aprender novas tecnologias e adiquirir conhecimento!
 
-## Tecnologias e Conhecimentos.🧠
-
+## Always open to learning new technologies and acquiring knowledge!🧠
 
 ### Front-end
 
@@ -21,15 +20,15 @@ Sempre aberto a aprender novas tecnologias e adiquirir conhecimento!
 
   <img align="center" alt="Dado-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img align="center" alt="Dado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> | <img align="center" alt="Dado-DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />  
 
-### Conhecimentos Gerais
+### General Knowledge
 
-METODOLOGIAS AGEIS | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
+AGILE METHODOLOGIES | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
 
 
 
-### Línguas
+### Languages
 
-PORTUGUES NATIVO | INGLES AVANÇADO | ESPANHOL BASICO |
+NATIVE PORTUGUESE | ADVANCED ENGLISH | BASIC SPANISH
 ##
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
