@@ -7,9 +7,25 @@ Atualmente desenvolvedor Full-Stack na <a href="https://idata.com.br" target="_b
 
 ## Tecnologias e Conhecimentos.🧠
 
-| HTML | CSS | JS | C | C# | .NET | MYSQL | ABAP | REDES | PYTHON | REACT | NODE.JS | BOOTSTRAP |
+### Front-end
 
-| METODOLOGIAS AGEIS | INGLES AVANÇADO | ESPANHOL BASICO |
+| HTML | CSS | JS | REACT | NODE.JS | BOOTSTRAP |
+
+### Back-end
+
+C | C# | .NET | ABAP |
+
+### Data-Base
+
+MYSQL | DOCKER | DBEAVER |
+
+### Conhecimentos Gerais
+
+| METODOLOGIAS AGEIS |
+
+### Línguas
+
+PORTUGUES NATIVO | INGLES AVANÇADO | ESPANHOL BASICO |
 ##
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
@@ -20,7 +36,6 @@ Atualmente desenvolvedor Full-Stack na <a href="https://idata.com.br" target="_b
   <img align="center" alt="Dado-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dado-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dado-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dado-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dado-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Dado-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
   <img align="center" alt="Dado-NojeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
