@@ -2,7 +2,9 @@ Olá! Eu sou o Eduardo Nitz
 
 💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre.
 ## 
+
 Tecnologias e Conhecimentos
+
 | HTML | CSS | JS | C | C# | .NET | MYSQL | ABAP | REDES | PYTHON | REACT | NODE.JS |
 | METODOLOGIAS AGEIS | INGLES AVANÇADO | ESPANHOL BASICO
 ##
