@@ -6,6 +6,7 @@ Olá! Eu sou o Eduardo Nitz
 Tecnologias e Conhecimentos
 
 | HTML | CSS | JS | C | C# | .NET | MYSQL | ABAP | REDES | PYTHON | REACT | NODE.JS |
+
 | METODOLOGIAS AGEIS | INGLES AVANÇADO | ESPANHOL BASICO
 ##
 
@@ -19,6 +20,11 @@ Tecnologias e Conhecimentos
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" />
+  
+  
        
 </div>
 
