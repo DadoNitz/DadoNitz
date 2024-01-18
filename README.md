@@ -1,7 +1,7 @@
 Olá! Eu sou o Eduardo Nitz
 
-💻Cursando Análise e desenvolvimento de sistemas, segundo semestre.
-
+💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre.
+| HTML | CSS | JS | C | C# | .NET | MYSQL | ABAP | REDES | PYTHON | PHP
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=dark)
