@@ -1,6 +1,7 @@
 ##Olá! Eu sou o Eduardo Nitz
 
-💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre. Atualmente desenvolvedor Full-Stack na <img href="https://idata.com.br" target="_blank" align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> 
+💻Cursando Análise e desenvolvimento de sistemas, terceiro semestre. Atualmente desenvolvedor Full-Stack na <a href="https://idata.com.br" target="_blank"><img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> </a>
+ 
 
 ## Tecnologias e Conhecimentos
 
@@ -33,10 +34,21 @@
 
 <div> 
   
-  <a href="https://instagram.com/dado_nitz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:dadonitz@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/eduardo-nitz-rodrigues-a09b5a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> 
-   <a href="https://wa.me/555198227581/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+<a href="https://instagram.com/dado_nitz" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a><br>
+
+<a href="mailto:dadonitz@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a><br>
+
+<a href="https://www.linkedin.com/in/eduardo-nitz-rodrigues-a09b5a210/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a><br>
+
+<a href="https://wa.me/555198227581/" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
   
   
 </div>
