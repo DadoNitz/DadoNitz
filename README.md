@@ -16,17 +16,17 @@ Always open to learning new technologies and acquiring knowledge!
 
 ### Back-end
 
-  <img align="center" alt="Dado-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> |   <img align="center" alt="Dado-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> |   <img align="center" alt="Dado-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> |   <img align="center" alt="Dado-ABAP" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" /> 
+  <img align="center" alt="Dado-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> |   <img align="center" alt="Dado-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> |   <img align="center" alt="Dado-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> 
 
 ### Data-Base
 
-  <img align="center" alt="Dado-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img align="center" alt="Dado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> | <img align="center" alt="Dado-DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />  
+  <img align="center" alt="Dado-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img align="center" alt="Dado-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> | <img align="center" alt="Dado-DBeaver" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />  |  <img align="center" alt="Dado-ABAP" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" /> 
 
   ##
 
 ### General Knowledge
 
-AGILE METHODOLOGIES | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
+AGILE METHODOLOGIES | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" /> | <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> |  <img align="center" alt="Dado-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /> 
 
 
 ### Languages
