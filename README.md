@@ -4,8 +4,6 @@
 
 💻Currently studying Systems Analysis and Development, third semester.
 
-Currently a Full-Stack developer at <a href="https://idata.com.br" target="_blank"><img align="center" alt="Dado-iData" height="30" width="60" src="https://idata.com.br/wp-content/uploads/2021/07/cropped-logotipo_idata-software-02-1-e1678106358607.png" /> </a>
-
 Always open to learning new technologies and acquiring knowledge!
 
 ##
