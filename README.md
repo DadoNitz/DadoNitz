@@ -2,7 +2,7 @@
 
 # Hello! My name is Eduardo Nitz!
 
-💻Currently studying Systems Analysis and Development, third semester.
+💻Currently studying Systems Analysis and Development, last semester.
 
 Always open to learning new technologies and acquiring knowledge!
 
