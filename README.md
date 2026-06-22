@@ -59,18 +59,20 @@ I enjoy learning new technologies, improving my programming skills and creating 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=dadonitz&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DadoNitz&theme=github_dark" 
 />
 
 <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitz&layout=compact&theme=github_dark&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DadoNitz&theme=github_dark" 
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DadoNitz&theme=github_dark" 
 />
 
 </div>
