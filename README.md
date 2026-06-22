@@ -63,12 +63,17 @@ I enjoy learning new technologies, improving my programming skills and creating 
 
 <div align="center">
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF7F&icon_color=00FF7F)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=dadonitz&show_icons=true&theme=github_dark&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0D1117"
+/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitz&layout=compact&theme=github_dark&hide_border=true&title_color=00FF7F)
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadoNitz&layout=compact&theme=github_dark&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=0D1117"
+/>
 
 </div>
-
 ---
 
 ## 📫 Contact Me
