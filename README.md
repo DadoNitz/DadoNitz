@@ -51,10 +51,13 @@ Hey, I'm **Eduardo Nitz**: final-semester **Systems Analysis and Development** s
 
 <h3 align="center">〔 featured 〕</h3>
 
-- **[prettygit](https://github.com/DadoNitz/prettygit)** — AI agent + skills kit to polish your GitHub profile (professional / aesthetic / direct) and turn it into a PDF resume
-- **[nitzboard-releases](https://github.com/DadoNitz/nitzboard-releases)** — Instaladores do NitzBoard (Windows e Mac)
-- **[nightwatch-dashboard](https://github.com/DadoNitz/nightwatch-dashboard)** — NIGHTWATCH local system intelligence dashboard for a dedicated monitor
-- **[Consumo-de-API](https://github.com/DadoNitz/Consumo-de-API)** — Site front-end desenvolvido em react, visando consumir a api desenvolvida no projeto anterior. Este projeto permite consumir a api e utiliza-la para manipular os dados do banco de dados mysql
+- **[prettygit](https://github.com/DadoNitz/prettygit)** — ✨ AI agent + skills kit: turn your GitHub profile into a polished README and a PDF resume (professional, aesthetic, direct, noir).
+- **[nitzboard-releases](https://github.com/DadoNitz/nitzboard-releases)** · [live ↗](https://github.com/DadoNitz/nitzboard-releases/releases/latest) — 🧩 NitzBoard: a canvas to run AI coding agents (Claude Code, Codex, Gemini) side by side. Installers for Windows & macOS.
+- **[tempo-landing](https://github.com/DadoNitz/tempo-landing)** · [live ↗](https://dadonitz.github.io/tempo-landing/) — ⏱️ Landing page for a fictional focus app with a working timer demo: draggable spring dial, React Bits motion, Apple-style feedback.
+- **[velo-nove](https://github.com/DadoNitz/velo-nove)** · [live ↗](https://dadonitz.github.io/velo-nove/) — 🚲 Product landing for a fictional e-bike: pinned scroll storytelling, animated specs, spring color configurator, React Bits.
+- **[ondina-arquitetura](https://github.com/DadoNitz/ondina-arquitetura)** · [live ↗](https://dadonitz.github.io/ondina-arquitetura/) — 🏛️ Institutional site for a fictional architecture studio in Porto Alegre: editorial layout, React Bits text motion, project gallery transitions.
+- **[torra-alta](https://github.com/DadoNitz/torra-alta)** · [live ↗](https://dadonitz.github.io/torra-alta/) — ☕ Institutional site for a fictional specialty coffee roastery: scroll-driven roast story, 3D tilt packages, React Bits animations.
+- **[nightwatch-dashboard](https://github.com/DadoNitz/nightwatch-dashboard)** — 🛰️ NIGHTWATCH: real-time system telemetry for a dedicated monitor (CPU/GPU temps, fans, disks, network) + JARVIS assistant.
 
 <h3 align="center">〔 statistics 〕</h3>
 
