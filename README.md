@@ -1,111 +1,74 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
-
-# Hi, I'm Eduardo Nitz 👋
-
-### Software Development Student | Front-end Enthusiast | Always Learning
-
-I'm currently in the final semester of **Systems Analysis and Development** and passionate about building modern, clean and functional applications.
-
-I enjoy learning new technologies, improving my programming skills and creating solutions that combine performance, usability and good design.
-
----
-
-## 🚀 About Me
-
-- 🎓 Studying **Systems Analysis and Development**
-- 💻 Focused on **Front-end Development**
-- 🌱 Currently improving my skills in **React, JavaScript, Node.js and .NET**
-- 🧠 Always open to learning new technologies
-- 🎯 Interested in web development, systems, databases and UI/UX
-- 🌎 Based in Brazil
-
----
-
-## 🛠️ Tech Stack
-
-### Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
-</p>
-
-### Back-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cs,dotnet,nodejs" />
-</p>
-
-### Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,docker,git" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" />
-</p>
-
-### Design & Productivity
-
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,figma,canva,trello,jira" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" />
-</p>
-
----
-
-## 🌍 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Advanced
-- 🇪🇸 Spanish — Basic
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DadoNitz&theme=github_dark" 
-/>
+<img src="./assets/noir-banner.svg" width="100%" alt="Eduardo Nitz"/>
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DadoNitz&theme=github_dark" 
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DadoNitz&theme=github_dark" 
-/>
-
-</div>
----
-
-## 📫 Contact Me
-
-<div align="center">
-
-<a href="https://instagram.com/dado_nitz" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:dadonitz@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/eduardo-nitz-rodrigues-a09b5a210/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://wa.me/5551994841555" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+<a href="https://dadonitz.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/eduardo-nitz-rodrigues-a09b5a210/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dadonitz@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://instagram.com/dado_nitz"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://wa.me/5551994841555"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 </div>
 
----
+<h3 align="center">〔 about me 〕</h3>
+
+<img align="right" width="44%" src="./assets/noir-terminal.svg" alt="terminal"/>
+
+Hey, I'm **Eduardo Nitz**: final-semester **Systems Analysis and Development** student who likes building clean, fast and good-looking software. Lately I've been deep into AI agents and developer tools.
+
+- 🎓 Systems Analysis and Development — last semester
+- 💻 Front-end focused: React, JavaScript, TypeScript
+- ⚙️ Back-end with Node.js and .NET / C#
+- 🤖 Building AI-agent tooling: <b>NitzBoard</b> and <b>prettygit</b>
+- 📍 Novo Hamburgo, RS — Brazil
+
+<br clear="right"/>
+
+<h3 align="center">〔 technologies 〕</h3>
 
 <div align="center">
 
-### “Technology is constantly evolving, and so am I.”
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+<img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<h3 align="center">〔 featured 〕</h3>
+
+- **[prettygit](https://github.com/DadoNitz/prettygit)** — AI agent + skills kit to polish your GitHub profile (professional / aesthetic / direct) and turn it into a PDF resume
+- **[nitzboard-releases](https://github.com/DadoNitz/nitzboard-releases)** — Instaladores do NitzBoard (Windows e Mac)
+- **[nightwatch-dashboard](https://github.com/DadoNitz/nightwatch-dashboard)** — NIGHTWATCH local system intelligence dashboard for a dedicated monitor
+- **[Consumo-de-API](https://github.com/DadoNitz/Consumo-de-API)** — Site front-end desenvolvido em react, visando consumir a api desenvolvida no projeto anterior. Este projeto permite consumir a api e utiliza-la para manipular os dados do banco de dados mysql
+
+<h3 align="center">〔 statistics 〕</h3>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DadoNitz&show_icons=true&include_all_commits=true&bg_color=0d0d0d&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&border_color=2b2b2b" alt="stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=DadoNitz&background=0d0d0d&border=2b2b2b&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=bdbdbd&sideLabels=bdbdbd&dates=6b6b6b" alt="streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DadoNitz&bg_color=0d0d0d&color=bdbdbd&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=2b2b2b" alt="activity"/>
+
+</div>
+
+<h3 align="center">〔 languages 〕</h3>
+
+<p align="center"><code>🇧🇷 Portuguese — native</code> · <code>🇺🇸 English — advanced</code> · <code>🇪🇸 Spanish — basic</code></p>
+
+<p align="center"><sub><code>Technology is constantly evolving, and so am I.</code></sub></p>

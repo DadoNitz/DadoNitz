@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1200 320" width="1200" height="320">
+<style>
+text{white-space:pre}
+.code{font:15px 'JetBrains Mono','Fira Code','Courier New',monospace;fill:#3a3a3a}
+.t{font:700 54px 'JetBrains Mono','Fira Code','Courier New',monospace;fill:#fff;letter-spacing:10px}
+.s{font:18px 'JetBrains Mono','Fira Code','Courier New',monospace;fill:#9a9a9a;letter-spacing:4px}
+.m{font:12px 'JetBrains Mono','Fira Code','Courier New',monospace;fill:#5c5c5c;letter-spacing:6px}
+.orb{fill:none;stroke:#fff;stroke-width:1.2;stroke-dasharray:4 10;animation:spin 40s linear infinite;transform-origin:600px 160px}
+.orb2{animation-duration:70s;animation-direction:reverse;opacity:.45}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="1200" height="320" fill="#000"/>
+<g class="code"><text x="40" y="70">def evolve(self):</text><text x="40" y="96">  while self.learning:</text><text x="40" y="122">    self.build()</text><text x="40" y="148">    self.break_things()</text><text x="40" y="174">    self.fix()</text><text x="40" y="200">  return self.better()</text><text x="860" y="90">class Developer:</text><text x="860" y="116">  stack = [&quot;HTML&quot;,&quot;JavaScript&quot;]</text><text x="860" y="142">  def ship(self):</text><text x="860" y="168">    return commit()</text></g>
+<ellipse class="orb" cx="600" cy="160" rx="330" ry="70" opacity=".6"/>
+<ellipse class="orb orb2" cx="600" cy="160" rx="420" ry="110"/>
+<rect x="330" y="105" width="540" height="120" fill="#000" opacity=".85"/>
+<text class="t" x="600" y="168" text-anchor="middle">EDUARDO NITZ</text>
+<text class="s" x="600" y="208" text-anchor="middle">&lt; software developer /&gt;<tspan class="cur">_</tspan></text>
+<text class="m" x="600" y="296" text-anchor="middle">BUILD. BREAK. EVOLVE.</text>
+<rect x=".5" y=".5" width="1199" height="319" fill="none" stroke="#2b2b2b"/>
+</svg>
