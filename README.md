@@ -51,13 +51,13 @@ Hey, I'm **Eduardo Nitz**: final-semester **Systems Analysis and Development** s
 
 <h3 align="center">〔 featured 〕</h3>
 
-- **[prettygit](https://github.com/DadoNitz/prettygit)** — ✨ AI agent + skills kit: turn your GitHub profile into a polished README and a PDF resume (professional, aesthetic, direct, noir).
+- **[prettygit](https://github.com/DadoNitz/prettygit)** · [live ↗](https://prettygit-ruddy.vercel.app) — ✨ AI agent + skills kit: turn your GitHub profile into a polished README and a PDF resume (professional, aesthetic, direct, noir).
+- **[pitch-kit](https://github.com/DadoNitz/pitch-kit)** · [live ↗](https://dadonitz.github.io/pitch-kit/) — 🎬 Pitch template for agencies: 3 site directions per brand (scroll story, institutional with three.js, landing). Plain HTML/JS, swap the brand in one file.
 - **[nitzboard-releases](https://github.com/DadoNitz/nitzboard-releases)** · [live ↗](https://github.com/DadoNitz/nitzboard-releases/releases/latest) — 🧩 NitzBoard: a canvas to run AI coding agents (Claude Code, Codex, Gemini) side by side. Installers for Windows & macOS.
 - **[tempo-landing](https://github.com/DadoNitz/tempo-landing)** · [live ↗](https://dadonitz.github.io/tempo-landing/) — ⏱️ Landing page for a fictional focus app with a working timer demo: draggable spring dial, React Bits motion, Apple-style feedback.
 - **[velo-nove](https://github.com/DadoNitz/velo-nove)** · [live ↗](https://dadonitz.github.io/velo-nove/) — 🚲 Product landing for a fictional e-bike: pinned scroll storytelling, animated specs, spring color configurator, React Bits.
 - **[ondina-arquitetura](https://github.com/DadoNitz/ondina-arquitetura)** · [live ↗](https://dadonitz.github.io/ondina-arquitetura/) — 🏛️ Institutional site for a fictional architecture studio in Porto Alegre: editorial layout, React Bits text motion, project gallery transitions.
 - **[torra-alta](https://github.com/DadoNitz/torra-alta)** · [live ↗](https://dadonitz.github.io/torra-alta/) — ☕ Institutional site for a fictional specialty coffee roastery: scroll-driven roast story, 3D tilt packages, React Bits animations.
-- **[nightwatch-dashboard](https://github.com/DadoNitz/nightwatch-dashboard)** — 🛰️ NIGHTWATCH: real-time system telemetry for a dedicated monitor (CPU/GPU temps, fans, disks, network) + JARVIS assistant.
 
 <h3 align="center">〔 statistics 〕</h3>
 

@@ -12,7 +12,7 @@ text{white-space:pre}
 @keyframes blink{50%{opacity:0}}
 </style>
 <rect width="1200" height="320" fill="#000"/>
-<g class="code"><text x="40" y="70">def evolve(self):</text><text x="40" y="96">  while self.learning:</text><text x="40" y="122">    self.build()</text><text x="40" y="148">    self.break_things()</text><text x="40" y="174">    self.fix()</text><text x="40" y="200">  return self.better()</text><text x="860" y="90">class Developer:</text><text x="860" y="116">  stack = [&quot;HTML&quot;,&quot;TypeScript&quot;]</text><text x="860" y="142">  def ship(self):</text><text x="860" y="168">    return commit()</text></g>
+<g class="code"><text x="40" y="70">def evolve(self):</text><text x="40" y="96">  while self.learning:</text><text x="40" y="122">    self.build()</text><text x="40" y="148">    self.break_things()</text><text x="40" y="174">    self.fix()</text><text x="40" y="200">  return self.better()</text><text x="860" y="90">class Developer:</text><text x="860" y="116">  stack = [&quot;HTML&quot;,&quot;JavaScript&quot;]</text><text x="860" y="142">  def ship(self):</text><text x="860" y="168">    return commit()</text></g>
 <ellipse class="orb" cx="600" cy="160" rx="330" ry="70" opacity=".6"/>
 <ellipse class="orb orb2" cx="600" cy="160" rx="420" ry="110"/>
 <rect x="330" y="105" width="540" height="120" fill="#000" opacity=".85"/>
